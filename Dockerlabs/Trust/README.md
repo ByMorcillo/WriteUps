@@ -86,6 +86,6 @@ Dentro del bin en su consola interna ejecuto el siguiente comando:
 
 ![Comando vim](_images/Screenshot_14.png)
 
-Una vez ejecutado consigo escalar privilegios y convertirme en el usuario root
+Una vez ejecutado consigo escalar privilegios y convertirme en el usuario root.
 
 ![Reto conseguido](_images/Screenshot_15.png)
