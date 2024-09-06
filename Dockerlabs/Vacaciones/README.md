@@ -1,4 +1,4 @@
-# Writeup de la Máquina -Pn de Dockerlabs
+# Writeup de la Máquina Vacaciones de Dockerlabs
 
 Lo primero que hago es realizar un escaneo de todos los puertos que tenga abiertos la máquina con la herramienta nmap. Una vez realizado el escaneo recojo los puertos abiertos con la utilidad extractPorts del fichero donde se ha guardado el escaneo de nmap. 
 
